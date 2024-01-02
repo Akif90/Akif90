@@ -1,7 +1,8 @@
+[![MasterHead](https://camo.githubusercontent.com/8e7a53e7beedfb5ade1aa80d100ea79584dae24b97ca8a88581c230b7c63f718/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f66732f35346236633036383039373539392e356235306263613437366239622e676966)](https://akifahmed.io)
 <h1 align="center">Hi 👋, I'm Akif Ahmed</h1>
 # 💫 About Me:
 Exploring the field of web development and competitive programming
-
+<img align="right" width="400" alt="coding" src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif"/>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akif_17) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Akif Ahmed) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/akif90) 
